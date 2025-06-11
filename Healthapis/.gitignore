@@ -1,0 +1,11 @@
+# Bỏ qua file secrets
+*.env
+.env
+
+# Bỏ thư mục môi trường ảo
+venv/
+__pycache__/
+
+# Bỏ file IDE
+.idea/
+.vscode/
